@@ -44,7 +44,15 @@
 - [x] Apple Services
 
 ## 🛠️Setting BIOS
+Boot > Wake system from S5：`Disable`
 
+Boot > Wake on LAN Enable：`Disable`
+
+Boot > Network Stack：`Disable`
+
+Boot > Launch PXE OpROM：`Disable`
+
+Boot > Boot mode select：`UEFI`
 
 - CFG Lock：`Disable,You need to use CFGLock.efi`
 
