@@ -4,7 +4,7 @@
 
 | Motherboard | ACEPC-CK2 |
 |------------|-------------------------------|
-| CPU | i5-7200u |
+| CPU | Intel i5-7200u |
 | iGPU | Intel® HD Graphics 620 |
 | RAM | DDR4 16GB |
 | Audio | Realtek ALC629 |
