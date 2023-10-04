@@ -10,7 +10,7 @@
 | Audio | Realtek ALC629 |
 | WIFI／Bluetooth | intel AC-9260 |
 | Ethernet | Realtek® 8111 |
-| BIOS Version | Unknow |
+| BIOS Version | 5.12 |
 
 
 ## <img src="https://miro.medium.com/max/1200/0*kIZGmKka4RBS9R2D.png" height="40px">OS
